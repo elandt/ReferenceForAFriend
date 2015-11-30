@@ -13,7 +13,7 @@ Execute a git clone to retrieve the repo
 	# Navigate to Repo
 	cd git
 	# Clone into the repo
-	git clone https://github.com/elandt/Climb-On.git
+	git clone <enter the url for your repository here (it should end in .git)>
 	# Follow rest of setup
 ```
 Editing the files (Create your own branch)
@@ -24,7 +24,7 @@ If you are making changes... MAKE SURE TO MAKE YOUR OWN BRANCH!!!
 How to Create your Branch:
 
 ```bash
-	# While in the HvZHub folder and on the master branch
+	# While in the Repository folder/directory and on the master branch
 	git checkout master
 	# Create your own branch
 	git branch <Your Branch Name>
